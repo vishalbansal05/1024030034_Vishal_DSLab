@@ -31,4 +31,5 @@ int main() {
     cout<<"Addition result in triplet form:\n";
     for(int x=0;x<=C[0][2];x++)
         cout<<C[x][0]<<" "<<C[x][1]<<" "<<C[x][2]<<endl;
+
 }
