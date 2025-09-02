@@ -27,3 +27,4 @@ int main(){
     s.set(2,2,6);
     s.display();
 }
+
